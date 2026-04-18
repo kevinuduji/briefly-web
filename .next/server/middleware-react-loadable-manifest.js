@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST="{\"components/screens/HistoryScreen.js -> ../history/DayScoreTrendChart\":{\"id\":\"components/screens/HistoryScreen.js -> ../history/DayScoreTrendChart\",\"files\":[\"static/chunks/components_history_DayScoreTrendChart_js.js\"]}}"
